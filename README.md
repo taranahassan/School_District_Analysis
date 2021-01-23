@@ -8,12 +8,19 @@ Maria has asked us for assistance in analyzing the data further to analyze stude
 After compiling data from 2 sources, we obtained:
   
   *1.  District Summary - provides a snapshot of the districts' key metrics*
+  
   *2.  Per School Summary - provides key metrics for each school*
+  
   *3.  A table presenting the top 5 and bottom 5 performing schools based on overall students passing*
+  
   *4.  Average math and reading scores in each grade, each school*
+  
   *5.  School performance based on budget per student*
+  
   *6.  School performance based on school size*
+  
   *7.  School performance based on school type*
+  
 
 After the original analysis was stated above, we were advised that there was a discrepency on the math and reading scores for the 9th grade students attending the Thomas High School.  The results noted below are based on the revised outcome.
 
