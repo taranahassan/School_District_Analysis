@@ -29,29 +29,44 @@ Firstly we removed all the scores for grade 9 students for Thomas High School wh
   
   1.  The District Summary key metrics was barely impacted with the revision.  The grade 9 students at Thomas High School amounted to 1.17% of the total district student        population.  Therefore the difference for average math and reading scores plus the percentages of students passing math and reading was a low of 0.1%.  Below are the snapshots comparisons of the summary before and after the changes.
 
+
 Original District Summary:
+
 ![Original_District_summary](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Original_District_summary.png?raw=true)
 
+
 Revised District Summary:
+
 ![Revised_District_summary](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Revised_District_summary.png?raw=true)
   
+  
   2.  There are a total of 1635 students at Thomas High School.  73% of the students are from grade 10th to 12th.  Once we eliminated the grade 9 scores, the percentage of students passing each subject or both together dropped by an average of 26%, since the calculation was still taking the total number students into account.  However, after recalculating with only the number of students with scores at Thomas High School, the passing percentages was barely impacted by an average of .37%.  Below are the snapshots of the per school summary comparisons with the highlighted field.
+  
   
 Original Per School Summary:
 ![Original_School_summary](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Original_Per_School_summary.png?raw=true)
 
+
 Revised Per School Summary without grade 9 scores:
+
 ![Revised_Per_School_summary_without_9th_scores](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Revised_Per_School_summary_without_9th_scores.png?raw=true)
 
+
 Revised Per School Summary without grade 9 students:
+
 ![Revised_Per_School_summary_without_9th_grade](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Revised_Per_School_summary_without_9th_grade.png?raw=true)
   
+  
   3.  After the revised analysis with the 9th grade scores replaced the overall passing percentage for the school was at 65%, it would have placed Thomas High School within the bottom 10 schools, placing them at the 8th position.  However once the scores were replaced and taking the grade 9's out of the equation, the school falls within the top 5 performers, placed 2nd on the list as the original analysis.  
+
+
 Top 5 schools list:
 ![Revised_top_5_schools](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Revised_top_5_schools.png?raw=true)
   
+  
   4.  Effects of replacing the grade 9 scores for Thomas High School:
-    a)  The math and reading scores by grade tables didn't change since the grouping was done by each school.  Even without grouping, the effect would have been minimal since the 9th graders at Thomas High School amount to less than half a percent of the total 9th grade population in the district.
+  
+    a)  The math and reading scores by grade tables didn't change since the grouping was done by each school.  Even without grouping, the effect would have been minimal since  the 9th graders at Thomas High School amount to less than half a percent of the total 9th grade population in the district.
     b)  No changes to the School Spending Summary.
     c)  No changes to the School Size Summary.
     d)  No changes to the School Type Summary.
@@ -59,4 +74,13 @@ Top 5 schools list:
 
 ## School District Analysis Summary
 
+Overall the discrepency of the scores impacted the entire analysis.  The revised analysis would not be a true statement as we are not calculating the actual true student population for this district.  Though the student count of 461 from 9th grade attending Thomas High is minimal compared to a total of 39,170 students; their true scores may still impact the results positively or negatively.  
 
+  1.  The performance for Thomas High individually situates them at the second place in the top 5 schools list.  This may change if we had the actual results from the 9th grade.  The results may put them in the bottom producing schools.
+
+  2.  The performance results on each grade level may be impacted as well.  Currently the results have the 9th grade per school performing at the same rate.  Actual results may show Thomas High's 9th grade performing better or worse than the other schools.
+  
+  3,  Based on the performance the budget per student may change as well which will impact the decision for the school boards funding allocation.  The true results may change the averages and the passing percentages, placing them in the next higher or lower bin of spending.
+  
+  4.  Once the true results from Thomas High's 9th grade is received, and if the averages are low, this may pull the overall passing rate down for the school itself, trickling down and change the results of the School Type summary.  We may see District schools out performing the Charter schools.
+  
