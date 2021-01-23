@@ -19,6 +19,7 @@ After the original analysis was stated above, we were advised that there was a d
 
 ### Resources used:
 Schools Complete CSV file - https://github.com/taranahassan/School_District_Analysis/blob/main/Resources/schools_complete.csv
+
 Students Complete CSV file - https://github.com/taranahassan/School_District_Analysis/blob/main/Resources/students_complete.csv
 
 *After verifying and cleaning data* Clean Students Complete CSV file - https://github.com/taranahassan/School_District_Analysis/blob/main/Resources/clean_students_complete.csv
@@ -27,8 +28,7 @@ Students Complete CSV file - https://github.com/taranahassan/School_District_Ana
 ## School Analysis Results
 Firstly we removed all the scores for grade 9 students for Thomas High School which was a total of 461 students.  The following are the effects of the new analysis.
   
-  1.  The District Summary key metrics was barely impacted with the revision.  The grade 9 students at Thomas High School amounted to 1.17% of the total district student        population.  Therefore the difference for average math and reading scores plus the percentages of students passing math and reading was a low of 0.1%.  Below are the snapshots comparisons of the summary before and after the changes.
-
+  1.  Below are the screenshots of the District summary - providing a snapshot of the total population, budget, average scores and passing rates for the entire district.  The 9th grade from Thomas High amounted to 1.17% of the total student population.
 
 Original District Summary:
 
@@ -40,12 +40,12 @@ Revised District Summary:
 ![Revised_District_summary](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Revised_District_summary.png?raw=true)
   
   
-  2.  There are a total of 1635 students at Thomas High School.  73% of the students are from grade 10th to 12th.  Once we eliminated the grade 9 scores, the percentage of students passing each subject or both together dropped by an average of 26%, since the calculation was still taking the total number students into account.  However, after recalculating with only the number of students with scores at Thomas High School, the passing percentages was barely impacted by an average of .37%.  Below are the snapshots of the per school summary comparisons with the highlighted field.
-  
+  2.  There are a total of 1635 students at Thomas High School.  73% of the students are from grade 10th to 12th.  Once we eliminated the grade 9 scores, the percentage of students passing each subject or both together dropped by an average of 26%, since the calculation was still taking the total number students into account.  
   
 Original Per School Summary:
 ![Original_School_summary](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Original_Per_School_summary.png?raw=true)
 
+However, after recalculating with only the number of students with scores at Thomas High School, the passing percentages was barely impacted by an average of .37%.  Below are the screenshot of the summaries with the grade 9 as student count but no scores, and without the grade 9 students completely out of the calculation.
 
 Revised Per School Summary without grade 9 scores:
 
@@ -66,10 +66,10 @@ Top 5 schools list:
   
   4.  Effects of replacing the grade 9 scores for Thomas High School:
   
-    a)  The math and reading scores by grade tables didn't change since the grouping was done by each school.  Even without grouping, the effect would have been minimal since  the 9th graders at Thomas High School amount to less than half a percent of the total 9th grade population in the district.
-    b)  No changes to the School Spending Summary.
-    c)  No changes to the School Size Summary.
-    d)  No changes to the School Type Summary.
+  -  The math and reading scores by grade tables didn't change since the grouping was done by each school.  Even without grouping, the effect would have been minimal since  the      9th graders at Thomas High School amount to less than half a percent of the total 9th grade population in the district.
+  -  No changes to the School Spending Summary.
+  -  No changes to the School Size Summary.
+  -  No changes to the School Type Summary.
 
 
 ## School District Analysis Summary
