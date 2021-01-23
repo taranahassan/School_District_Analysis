@@ -35,16 +35,28 @@ Original District Summary:
 Revised District Summary:
 ![Revised_District_summary](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Revised_District_summary.png?raw=true)
   
-  2.  There are a total of 1635 students for Thomas High School.  73% of the students are from grade 10th to 12th.  Once we eliminated the grade 9 scores, the percentage of students passing each subject or both together dropped by an average of 26%, since the calculation was still taking the total number students into account.  However, after recalculating the number of students with scores at Thomas High School, the passing percentages barely changed by an average of .37%.  Below are the snapshots of the summary with the highlighted field.
+  2.  There are a total of 1635 students at Thomas High School.  73% of the students are from grade 10th to 12th.  Once we eliminated the grade 9 scores, the percentage of students passing each subject or both together dropped by an average of 26%, since the calculation was still taking the total number students into account.  However, after recalculating with only the number of students with scores at Thomas High School, the passing percentages was barely impacted by an average of .37%.  Below are the snapshots of the per school summary comparisons with the highlighted field.
   
-  3.  Based on the revised analysis with the 9th grade scores replaced and the overall passing percentage sitting at 65%, it would have placed Thomas High School within the bottom 10 schools, placing them at the 8th position.  However once the scores were replaced and taking the grade 9's out of the equation, the school falls within the top 5 performers, placed 2nd on the list as the original analysis.  
+Original Per School Summary:
+![Original_School_summary](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Original_Per_School_summary.png?raw=true)
+
+Revised Per School Summary without grade 9 scores:
+![Revised_Per_School_summary_without_9th_scores](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Revised_Per_School_summary_without_9th_scores.png?raw=true)
+
+Revised Per School Summary without grade 9 students:
+![Revised_Per_School_summary_without_9th_grade](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Revised_Per_School_summary_without_9th_grade.png?raw=true)
   
-  4.  Replacing the grade 9 scores:
-    a)  Didn't affect the math and reading scores for grade 10 to 12.  And the average for all 9th graders for math and reading scores barely changed as well since the number of 9th graders in Thomas High School is less than half a percent compared to the total grade 9's for all high schools.
-    b)  The spending summary didn't change as well.
-    c)  The school size summary didn't change at all.
-    d)  the school type summary didn't change at all.
+  3.  After the revised analysis with the 9th grade scores replaced the overall passing percentage for the school was at 65%, it would have placed Thomas High School within the bottom 10 schools, placing them at the 8th position.  However once the scores were replaced and taking the grade 9's out of the equation, the school falls within the top 5 performers, placed 2nd on the list as the original analysis.  
+Top 5 schools list:
+![Revised_top_5_schools](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Revised_top_5_schools.png?raw=true)
+  
+  4.  Effects of replacing the grade 9 scores for Thomas High School:
+    a)  The math and reading scores by grade tables didn't change since the grouping was done by each school.  Even without grouping, the effect would have been minimal since the 9th graders at Thomas High School amount to less than half a percent of the total 9th grade population in the district.
+    b)  No changes to the School Spending Summary.
+    c)  No changes to the School Size Summary.
+    d)  No changes to the School Type Summary.
 
 
 ## School District Analysis Summary
+
 
