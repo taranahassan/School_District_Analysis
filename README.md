@@ -30,6 +30,7 @@ Firstly we removed all the scores for grade 9 students for Thomas High School wh
   
   1.  Below are the screenshots of the District summary - providing a snapshot of the total population, budget, average scores and passing rates for the entire district.  The 9th grade from Thomas High amounted to 1.17% of the total student population.
 
+
 Original District Summary:
 
 ![Original_District_summary](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Original_District_summary.png?raw=true)
@@ -43,6 +44,7 @@ Revised District Summary:
   2.  There are a total of 1635 students at Thomas High School.  73% of the students are from grade 10th to 12th.  Once we eliminated the grade 9 scores, the percentage of students passing each subject or both together dropped by an average of 26%, since the calculation was still taking the total number students into account.  
   
 Original Per School Summary:
+
 ![Original_School_summary](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Original_Per_School_summary.png?raw=true)
 
 However, after recalculating with only the number of students with scores at Thomas High School, the passing percentages was barely impacted by an average of .37%.  Below are the screenshot of the summaries with the grade 9 as student count but no scores, and without the grade 9 students completely out of the calculation.
@@ -61,6 +63,7 @@ Revised Per School Summary without grade 9 students:
 
 
 Top 5 schools list:
+
 ![Revised_top_5_schools](https://github.com/taranahassan/School_District_Analysis/blob/main/Screenshot_examples/Revised_top_5_schools.png?raw=true)
   
   
