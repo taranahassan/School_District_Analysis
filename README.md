@@ -29,7 +29,7 @@ After the original analysis was stated above, we were advised that there was a d
 
 [students_complete.csv](https://github.com/taranahassan/School_District_Analysis/blob/main/Resources/students_complete.csv)
 
-*After verifying and cleaning data* clean_students_complete.csv](https://github.com/taranahassan/School_District_Analysis/blob/main/Resources/clean_students_complete.csv)
+*After verifying and cleaning data* [clean_students_complete.csv](https://github.com/taranahassan/School_District_Analysis/blob/main/Resources/clean_students_complete.csv)
 
 
 ## School Analysis Results
