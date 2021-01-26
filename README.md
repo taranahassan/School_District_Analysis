@@ -25,11 +25,11 @@ After compiling data from 2 sources, we obtained:
 After the original analysis was stated above, we were advised that there was a discrepency on the math and reading scores for the 9th grade students attending the Thomas High School.  The results noted below are based on the revised outcome.
 
 ### Resources used:
-Schools Complete CSV file - https://github.com/taranahassan/School_District_Analysis/blob/main/Resources/schools_complete.csv
+[schools_complete.csv](https://github.com/taranahassan/School_District_Analysis/blob/main/Resources/schools_complete.csv)
 
-Students Complete CSV file - https://github.com/taranahassan/School_District_Analysis/blob/main/Resources/students_complete.csv
+[students_complete.csv](https://github.com/taranahassan/School_District_Analysis/blob/main/Resources/students_complete.csv)
 
-*After verifying and cleaning data* Clean Students Complete CSV file - https://github.com/taranahassan/School_District_Analysis/blob/main/Resources/clean_students_complete.csv
+*After verifying and cleaning data* clean_students_complete.csv](https://github.com/taranahassan/School_District_Analysis/blob/main/Resources/clean_students_complete.csv)
 
 
 ## School Analysis Results
